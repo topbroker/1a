@@ -1,0 +1,9 @@
+.main-menu-mobile {
+    a {
+        @apply -m-3 p-3 flex items-center rounded-md transition ease-in-out duration-150;
+
+        &:hover {
+            @apply bg-gray-1;
+        }
+    }
+}

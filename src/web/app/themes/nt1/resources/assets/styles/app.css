@@ -1,0 +1,23 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+@import "_global.css";
+@import "_filters.css";
+@import "_ntobj.css";
+@import "_tbusers.css";
+@import "_sliders.css";
+
+@import "partials/_header.css";
+@import "partials/_footer.css";
+
+@import "blocks/_hero.css";
+
+@import "sections/_hero.css";
+@import "sections/_testimonials.css";
+@import "sections/_swipers.css";
+@import "sections/_categories.css";
+
+@import "_navigation.css";
+@import "_paslaugos.css";
+@import "_template_about.css";
