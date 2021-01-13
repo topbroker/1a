@@ -9,10 +9,13 @@ src/web/app/uploads/*
 # WordPress
 src/web/wp
 src/web/.htaccess
+caddy_data
+caddy_config
 
 # WP-CLI
 db-sync
 sql-dump-*.sql
+
 
 # Dotenv
 .env
@@ -25,7 +28,7 @@ src/vendor/*
 
 # Database volume
 data
-
+db
 # Node Package Manager
 node_modules
 
