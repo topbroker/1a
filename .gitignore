@@ -7,7 +7,6 @@ src/web/app/uploads/*
 !src/web/app/uploads/.gitkeep
 
 # WordPress
-src/web/wp
 src/web/.htaccess
 caddy_data
 caddy_config
